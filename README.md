@@ -1,1 +1,3 @@
-# JavaScript_projects
+# JavaScript_projects.
+
+# this is a demo js project
